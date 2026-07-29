@@ -40,8 +40,9 @@ This project predicts whether a customer is likely to leave a service (churn) or
 
 ### Churn Distribution
 ![Churn Distribution](https://github.com/kashish-dhawas/Customer-Churn-Prediction/blob/main/churn_distribution.png?raw=true) 
+
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/kashish-dhawas/Customer-Churn-Prediction/blob/main/confusion_matrix.png?raw=true)
 
 ### Feature Importance
 ![Feature Importance](images/feature_importance.png)
