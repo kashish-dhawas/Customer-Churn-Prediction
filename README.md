@@ -39,13 +39,13 @@ This project predicts whether a customer is likely to leave a service (churn) or
 ## Visualizations
 
 ### Churn Distribution
-![churn distribution](images/churn_distribution.png)
+![Churn Distribution](images/churn_distribution.png)
 
 ### Confusion Matrix
-![confusion matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### Feature Importance
-![feature importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ## Conclusion
 The model helps identify customers who are more likely to churn and highlights important factors influencing customer retention.
