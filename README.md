@@ -45,7 +45,7 @@ This project predicts whether a customer is likely to leave a service (churn) or
 ![Confusion Matrix](https://github.com/kashish-dhawas/Customer-Churn-Prediction/blob/main/confusion_matrix.png?raw=true)
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://github.com/kashish-dhawas/Customer-Churn-Prediction/blob/main/feature_importance.png?raw=true)
 
 ## Conclusion
 The model helps identify customers who are more likely to churn and highlights important factors influencing customer retention.
